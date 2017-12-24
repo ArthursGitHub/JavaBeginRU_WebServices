@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaBeginRU_WebServices.iml" filepath="$PROJECT_DIR$/JavaBeginRU_WebServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_01_Client/Sample_01_Client.iml" filepath="$PROJECT_DIR$/Sample_01_Client/Sample_01_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_01_Client_GeneratedByIdea/Sample_01_Client_GeneratedByIdea.iml" filepath="$PROJECT_DIR$/Sample_01_Client_GeneratedByIdea/Sample_01_Client_GeneratedByIdea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_01_Server/Sample_01_Server.iml" filepath="$PROJECT_DIR$/Sample_01_Server/Sample_01_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_02/Sample_02.iml" filepath="$PROJECT_DIR$/Sample_02/Sample_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_03_Client/Sample_03_Client.iml" filepath="$PROJECT_DIR$/Sample_03_Client/Sample_03_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_03_Server/Sample_03_Server.iml" filepath="$PROJECT_DIR$/Sample_03_Server/Sample_03_Server.iml" />
+    </modules>
+  </component>
+</project>

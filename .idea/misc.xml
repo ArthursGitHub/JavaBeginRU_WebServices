@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/qqq" />
+    <file type="web" url="file://$PROJECT_DIR$/rrr" />
+    <file type="web" url="file://$PROJECT_DIR$/Sample_02" />
+    <file type="web" url="file://$PROJECT_DIR$/Sample_03_Server" />
+    <file type="web" url="file://$PROJECT_DIR$/Sample_03_Server_N" />
+    <file type="web" url="file://$PROJECT_DIR$/WebApp" />
+    <file type="web" url="file://$PROJECT_DIR$/zzz" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Sample_00/pom.xml" />
+        <option value="$PROJECT_DIR$/WSHelloworld/pom.xml" />
+        <option value="$PROJECT_DIR$/WebApp/pom.xml" />
+        <option value="$PROJECT_DIR$/Sample_02/pom.xml" />
+        <option value="$PROJECT_DIR$/Sample_03_Server_N/pom.xml" />
+        <option value="$PROJECT_DIR$/Sample_03_Server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="WebServicesPlugin" addRequiredLibraries="true" />
+</project>
