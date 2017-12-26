@@ -1,0 +1,22 @@
+Metro vs Java's JAX-WS?
+------------------------------------------
+
+
+What is/are the difference/s of Java's JAX-WS and Metro? Are they the same of are they two different JAX-WS implementations?
+
+According to my research, JAX-WS is already a part of JDK 6. However, JAX-WS does not come with the standard bundle of JDK so I looked for a Java EE jar. However, it seems that Oracle does not host a compiled Java EE jar but instead provides Glassfish which is a Java EE server.
+
+I was able to run my web service on Glassfish. What JAX-WS implementation does Glassfish use? Since it's hosted on Oracle, I'm assuming that it is using Java's implementation of JAX-WS which is supposedly a part of JDK 1.6? Am I correct with my assumption? Also, to run a JAX-WS based web service, I need to download JAX-WS jars. I found Metro. But on it's page, I see the link of metro to be a sublink of Glassfish. So I'm now confused. Is Glassfish using Metro? Or is Glassfish using Java's JAX-WS?
+
+Are Metro and Java's JAX-WS the same?
+
+===========================================
+
+
+
+JAX-WS is an API while Metro is the reference implementation for the JAX-WS API; both are from Sun/Oracle, thus are standard. You can see them as an interface (JAX-WS) and a class implementing the interface (Metro), only at a higher level. Glassfish also uses Metro as implementation for JAX-WS.
+
+To be noted that Metro contains implementation for JAXB and other APIs.
+
+Also, SOAP Web Services are somehow obsolete; the new trend is to use REST Web Services; JAX-RS (with various implementations from the standard Jersey to Restlet or CXF).
+
