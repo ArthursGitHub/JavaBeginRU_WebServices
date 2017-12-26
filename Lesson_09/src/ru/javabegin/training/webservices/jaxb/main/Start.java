@@ -43,3 +43,7 @@ public class Start {
 /*
 http://pojo.sodhanalibrary.com/Convert
 */
+
+/*
+Через среду разработки выбрав POJO файл можно сгенерить XSD файл, а из него XML и набор pojo файлов.
+*/
