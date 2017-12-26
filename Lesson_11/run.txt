@@ -1,0 +1,12 @@
+Чтобы посредством утилиты wsgen сгенерировать wsdl, xsd и pojo файлы для нашего веб сервиса "ServerInfo",
+нужно сначала его скомпилировать, например через maven package
+
+Затем переходим в папку
+~/IdeaProjects/JavaBeginRU_WebServices/Lesson_11/target/classes$
+
+и даем команду:
+wsgen -verbose -keep -cp . com.mkyong.ws.ServerInfo -wsdl
+
+
+Утилита wsimport генерит pojo файлы по wsdl файлу:
+wsimport -keep -verbose http://localhost:8888/ws/server?wsdl
