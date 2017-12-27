@@ -3,12 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaBeginRU_WebServices.iml" filepath="$PROJECT_DIR$/JavaBeginRU_WebServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_08/Lesson_08.iml" filepath="$PROJECT_DIR$/Lesson_08/Lesson_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_09/Lesson_09.iml" filepath="$PROJECT_DIR$/Lesson_09/Lesson_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_11/Lesson_11.iml" filepath="$PROJECT_DIR$/Lesson_11/Lesson_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_28/Lesson_28.iml" filepath="$PROJECT_DIR$/Lesson_28/Lesson_28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_43/Lesson_43.iml" filepath="$PROJECT_DIR$/Lesson_43/Lesson_43.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sample_01_Client/Sample_01_Client.iml" filepath="$PROJECT_DIR$/Sample_01_Client/Sample_01_Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sample_01_Client_GeneratedByIdea/Sample_01_Client_GeneratedByIdea.iml" filepath="$PROJECT_DIR$/Sample_01_Client_GeneratedByIdea/Sample_01_Client_GeneratedByIdea.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sample_01_Server/Sample_01_Server.iml" filepath="$PROJECT_DIR$/Sample_01_Server/Sample_01_Server.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sample_02/Sample_02.iml" filepath="$PROJECT_DIR$/Sample_02/Sample_02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sample_03_Client/Sample_03_Client.iml" filepath="$PROJECT_DIR$/Sample_03_Client/Sample_03_Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sample_03_Server/Sample_03_Server.iml" filepath="$PROJECT_DIR$/Sample_03_Server/Sample_03_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_04_Server/Sample_04_Server.iml" filepath="$PROJECT_DIR$/Sample_04_Server/Sample_04_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_05_Server/Sample_05_Server.iml" filepath="$PROJECT_DIR$/Sample_05_Server/Sample_05_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_06_Client/Sample_06_Client.iml" filepath="$PROJECT_DIR$/Sample_06_Client/Sample_06_Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_06_Server/Sample_06_Server.iml" filepath="$PROJECT_DIR$/Sample_06_Server/Sample_06_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sample_07_Server/Sample_07_Server.iml" filepath="$PROJECT_DIR$/Sample_07_Server/Sample_07_Server.iml" />
     </modules>
   </component>
 </project>
