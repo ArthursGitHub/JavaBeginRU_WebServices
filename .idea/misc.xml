@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Lesson_28" />
+    <file type="web" url="file://$PROJECT_DIR$/Lesson_43" />
     <file type="web" url="file://$PROJECT_DIR$/qqq" />
     <file type="web" url="file://$PROJECT_DIR$/rrr" />
     <file type="web" url="file://$PROJECT_DIR$/Sample_02" />
     <file type="web" url="file://$PROJECT_DIR$/Sample_03_Server" />
     <file type="web" url="file://$PROJECT_DIR$/Sample_03_Server_N" />
+    <file type="web" url="file://$PROJECT_DIR$/Sample_04_Server" />
+    <file type="web" url="file://$PROJECT_DIR$/Sample_04_Server_1" />
+    <file type="web" url="file://$PROJECT_DIR$/Sample_05_Server" />
+    <file type="web" url="file://$PROJECT_DIR$/Sample_06_Server" />
+    <file type="web" url="file://$PROJECT_DIR$/Sample_07_Server" />
     <file type="web" url="file://$PROJECT_DIR$/WebApp" />
     <file type="web" url="file://$PROJECT_DIR$/zzz" />
   </component>
@@ -18,6 +25,15 @@
         <option value="$PROJECT_DIR$/Sample_02/pom.xml" />
         <option value="$PROJECT_DIR$/Sample_03_Server_N/pom.xml" />
         <option value="$PROJECT_DIR$/Sample_03_Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Sample_04_Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_11/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_28/pom.xml" />
+        <option value="$PROJECT_DIR$/Sample_04_Server_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_43/pom.xml" />
+        <option value="$PROJECT_DIR$/Sample_05_Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Sample_06_Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Sample_06_Client/pom.xml" />
+        <option value="$PROJECT_DIR$/Sample_07_Server/pom.xml" />
       </list>
     </option>
   </component>
